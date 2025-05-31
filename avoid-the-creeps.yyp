@@ -37,6 +37,9 @@
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"enemy_fly","path":"sprites/enemy_fly/enemy_fly.yy",},},
+    {"id":{"name":"enemy_swim","path":"sprites/enemy_swim/enemy_swim.yy",},},
+    {"id":{"name":"enemy_walk","path":"sprites/enemy_walk/enemy_walk.yy",},},
     {"id":{"name":"player_up","path":"sprites/player_up/player_up.yy",},},
     {"id":{"name":"player_walk","path":"sprites/player_walk/player_walk.yy",},},
   ],
