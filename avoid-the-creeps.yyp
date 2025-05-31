@@ -35,7 +35,10 @@
   },
   "name":"avoid-the-creeps",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"player_up","path":"sprites/player_up/player_up.yy",},},
+    {"id":{"name":"player_walk","path":"sprites/player_walk/player_walk.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
